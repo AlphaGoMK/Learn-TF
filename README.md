@@ -1,5 +1,5 @@
-# AlphaGoMK
-
+# AlphaGoMK  
+>okgomk@gmail.com
 ## Learn-TF
 learning tensorflow  
 ipython notebook  
